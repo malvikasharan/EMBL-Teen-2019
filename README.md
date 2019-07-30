@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+[About EMBL Teen](https://www.embl.de/leben/friends/en#embl-teens)
 
-You can use the [editor on GitHub](https://github.com/malvikasharan/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*From August to September, the 'Friends of EMBL' department is running a small project with EMBL female researchers and girls from the EMBL Teens, an EMBL club for high school students interested in life sciences. Each girl has been paired with a women researcher at EMBL where they will take a mentorship roles as a mentee and mentor. The EMBL researcher will introduce their mentees to their research work, their life as a scientist and a few important skills that have been useful for them. As part of the European Researchers’ Night that will take place at EMBL on 27 September 2019, an exhibition will be organised to show their work in the form of visual display, video or presentation.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will summarise the work of Maria-Theresa; a bright teen researcher inetrested in computational biology, data analysis, and articficial intelligence, with Malvika Sharan, a computational biologist and community outreach coordinator at EMBL.
 
-### Markdown
+## Learn more about:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malvikasharan/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[About the Mentor](https://about.me/malvikasharan) | [About the Mentee](https://matheli.github.io/Matheli/)
