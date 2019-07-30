@@ -4,12 +4,13 @@
 
 This page will summarise the work of Maria-Theresa - an EMBL teen, who is learning about computational biology, data analysis, and artificial intelligence in her spare time, and Malvika Sharan - a computational biologist and community outreach coordinator at EMBL, who shares the interests of Maria-Theresa.
 
+![image missing]()
+
+## Check out their stories
+
+- [Introduction](./posts/2019-07-17-introduction.md)
+- [Interview with Maria-Theresa](./posts/2019-07-30-matheli-interview.md)
+
 ## Learn more about:
 
 [About EMBL Teen](https://www.embl.de/leben/friends/en#embl-teens) | [About the Mentor](https://about.me/malvikasharan) | [About the Mentee](https://matheli.github.io/Matheli/)
-
-![image missing]()
-
-## Check out my posts
-
-[Link1](./posts/testpost.md)
