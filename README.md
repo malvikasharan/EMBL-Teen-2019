@@ -8,4 +8,8 @@ This page will summarise the work of Maria-Theresa - an EMBL teen, who is learni
 
 [About EMBL Teen](https://www.embl.de/leben/friends/en#embl-teens) | [About the Mentor](https://about.me/malvikasharan) | [About the Mentee](https://matheli.github.io/Matheli/)
 
-![image]
+![image missing]()
+
+## Check out my posts
+
+[Link1](./posts/testpost.md)
