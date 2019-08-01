@@ -2,6 +2,10 @@
 
 - Date: 2019-07-17
 
+[RETURN TO HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)
+[NEXT POST](./../2019-07-30-matheli-interview.md)
+
+
 ## Meet Maria-Theresa!
 
 Maria-Teresa is a 16 years old school goer, who spends her free time learning how to code, playing sports and taking piano lessons. She got introduced to programming a few years ago through the MINT master ([detail](https://master-mint.de/usa-2018)), a program for high school students to study Mathematics, Informatics, the Natural Sciences and Technology. I had a chance to spend a few days this summer with her when [‘Friends of EMBL’](https://www.embl.de/leben/friends/en) paired us up as mentor and mentee as a part of a project called [‘Women in Science: Courage to Succeed’](https://en.nacht-der-forschung-heidelberg.de/event/women-in-science-exhibition/).  
