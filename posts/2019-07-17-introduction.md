@@ -6,7 +6,7 @@
 
 Maria-Teresa is a 16 years old school goer, who spends her free time learning how to code, playing sports and taking piano lessons. She got introduced to programming a few years ago through the MINT master ([detail](https://master-mint.de/usa-2018)), a program for high school students to study Mathematics, Informatics, the Natural Sciences and Technology. I had a chance to spend a few days this summer with her when [‘Friends of EMBL’](https://www.embl.de/leben/friends/en) paired us up as mentor and mentee as a part of a project called [‘Women in Science: Courage to Succeed’](https://en.nacht-der-forschung-heidelberg.de/event/women-in-science-exhibition/).  
 
-We both were interested in this project when Barbara Solich invited us to be a part of it; me as a researcher with an unconventional computational career at EMBL, and Maria-Theresa for her curiosity in computational biology. I don’t think either of us really understood the meaning of ‘Courage to Succeed’ in this context, but it didn’t matter as long as there was ‘Science’ involved.
+We both were interested in this project when [Barbara Solich](https://www.embl.de/aboutus/support-embl/office-of-resource-development/members/index.php?s_personId=CP-60023143), the program officer invited us to be a part of it; me as a researcher with an unconventional computational career at EMBL, and Maria-Theresa for her curiosity in computational biology. I don’t think either of us really understood the meaning of ‘Courage to Succeed’ in this context, but it didn’t matter as long as there was ‘Science’ involved.
 
 ![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-620x465.jpg)
 *The EMBL Teens reporters, Maria-Theresa (right), European Researchers’ Night 2018, IMAGE: Patrick Müller / EMBL*
