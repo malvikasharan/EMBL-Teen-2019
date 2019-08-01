@@ -17,7 +17,7 @@ We first met on July 17, 2019, at EMBL for lunch which lasted for 2 hours. In th
 
 While we walked around at EMBL, I pointed towards a poster that I had put up that morning about the Heidelberg Unseminar in Bioinformatics event on ‘making friends with failure’ that I was co-organising. This led to us talking about how everyone experiences failure, and how little we talk about it. She excitedly added how she steps back when something fails, and learn from them before trying again. Boom! We found another connection and so it was time for ice cream before Maria-Theresa could go back to enjoying her summer holidays.
 
-![](http://www.hub-hub.de/wiki/images/5/50/HUB29_Friendswithfailureposter.jpg)
+<img src="http://www.hub-hub.de/wiki/images/5/50/HUB29_Friendswithfailureposter.jpg" width=400>
 
 Maria-Theresa told me about her 2018 expedition to the Silicon Valley hosted by her master MINT program. As someone interested in learning more about artificial intelligence and machine learning, this trip was a dream come true for her. Some highlights from her trip included her visits to big tech companies like SAP, intel, apple, and eBay, and the university campuses of Stanford and Berkeley. Her favorite part was the opportunity to interview several engineers, developers, founders of start-up companies and university students. She shared that it was great to know that ‘failure’ is seen as a usual thing in Silicon Valley. In her interviews, several people told her that it is assumed that 90% of the start-up companies will fail no matter how innovative the idea is. Therefore, people commend risk-taking over the fear of failures.
 
