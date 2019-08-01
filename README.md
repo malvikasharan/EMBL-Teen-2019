@@ -11,7 +11,7 @@ This page will summarise the work of Maria-Theresa - an EMBL teen, who is learni
 - [Introduction](./posts/2019-07-17-introduction.md)
 - [Interview with the EMBL Teen](./posts/2019-07-30-matheli-interview.md)
 
-## Learn more
+## Learn more about
 
-| [About EMBL Teen](https://www.embl.de/leben/friends/en#embl-teens) | [Project from EMBL Teen's Perspective](https://matheli.github.io/Matheli/) |
+| [EMBL Teens](https://www.embl.de/leben/friends/en#embl-teens) | [Project from EMBL Teen's Perspective](https://matheli.github.io/Matheli/) |
 
