@@ -1,10 +1,8 @@
 # Introduction
 
-- Date: 2019-07-17
+Post by Malvika Sharan, 2019-07-17
 
-- [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)
-
-- [NEXT POST](./2019-07-30-matheli-interview.md)
+| [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-07-30-matheli-interview.md) |
 
 
 ## Meet Maria-Theresa!
