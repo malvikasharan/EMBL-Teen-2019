@@ -4,9 +4,9 @@ Post by Malvika Sharan, 2019-07-30
 
 | [PREVIOUS POST](./2019-07-17-introduction.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-07-31-matheli-interview.md) |
 
-Today we discussed my work as a Community Manager at EMBL, while Maria-Theresa got to sit with me during Bio-IT's weekly drop-in sessions. I told her about the roles of community managers in the current collaborative world of science. I also shared with her the challenges I faced in my current job while choosing to dedicate my full-time in community management, which meant I couldn't do research anymore - simply because I didn't have time for that. 
+Today we discussed my work as a Community Manager at EMBL, while Maria-Theresa got to sit with me during Bio-IT's weekly drop-in sessions. I told her about the roles of community managers in the current collaborative world of science. I also shared with her the challenges I faced in my current job while choosing to dedicate my full-time in community management, which meant I couldn't do research anymore - simply because couldn't do both. 
 
-So, even though I miss working on research projects, I definitely identify myself as a community manager more. At work, part of my responsibilities is to learn and bring best practices of Open Science at my workplace and share them with others. This doesn't mean that I have to be an expert on everything. If I can turn to a right person, or point others to a particular skill/resource that can improve their work, that's a win for everyone involved. Therefore, **collaboration is the key**, either you are a researcher or a community manager.
+So, even though I miss working on research projects, I definitely identify myself as a community manager more. At work, part of my responsibilities is to learn and bring best practices of Open Science to my community and share them with others. This doesn't mean that I have to be an expert on everything. If I can turn to a right person, or point others to a particular skill/resource that can improve their work, that's a win for everyone involved. Therefore, **collaboration is the key**, either you are a researcher or a community manager.
 
 ![](https://images.unsplash.com/photo-1531537571171-a707bf2683da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3067&q=80)
 *Images on Unsplash by @mimithian*
