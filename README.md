@@ -1,4 +1,4 @@
-# EMBL Teen Project
+# EMBL Women in Science Project
 
 ***[EMBL = European Molecular Biology Laboratory](https://embl.de)***
 
