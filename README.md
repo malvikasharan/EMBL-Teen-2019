@@ -11,7 +11,7 @@ This page will summarise the work of Maria-Theresa - an EMBL teen, who is learni
 - [Introduction](./posts/2019-07-17-introduction.md)
 - [Community and Collaboration](./posts/2019-07-30-community_and_collaboration.md)
 - [Interview with the EMBL Teen](./posts/2019-07-31-matheli-interview.md)
-- [Open Access and Reproducibility](./posts/2019-08-02-matheli-interview.md)
+- [Open Access and Reproducibility](./posts/2019-08-02-OpenAccess_and_reproducibility.md)
 
 ## Learn more about
 
