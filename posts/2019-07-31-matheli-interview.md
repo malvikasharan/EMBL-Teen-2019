@@ -45,6 +45,6 @@
 
 **A:** It was a really great chance to go to Silicon Valley and to experience the atmosphere there first hand. I think the next big project is the competition on Artificial Intelligence that I am participating in. We're doing our own project in Python, we have many challenges to solve and together as a team we are communicating with each other to address them. So, yeah, it’s very cool.
 
-**Q:** *What is the one thing that you wanna brag about?*
+**Q:** *What is the one non-science thing that you wanna brag about?*
 
-**A:** I'm pretty good at golf, I used to play tennis too. It allow me to be in nature and I often get to travel to play golf with other teams in different cities.
+**A:** I'm pretty good at golf. I get to enjoy outdoors, and I often get to travel to different cities play against other teams.
