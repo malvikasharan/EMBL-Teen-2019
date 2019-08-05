@@ -47,4 +47,4 @@
 
 **Q:** *What is the one non-science thing that you wanna brag about?*
 
-**A:** I'm pretty good at golf. I get to enjoy outdoors, and I often get to travel to different cities play against other teams.
+**A:** I'm pretty good at golf. I get to enjoy outdoors, and I often get to travel to different cities with my team and play against other teams.
