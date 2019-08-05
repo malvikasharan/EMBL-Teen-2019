@@ -19,7 +19,7 @@
 
 **Q:** *When did you realize that you like science?*
 
-**A:** Since I was very young, I loved to be outdoors to watch nature and just experience it. I started doing small science projects and liked them very much. I did many many projects with master MINT or any other changes that I had. My parents really support me by looking for places for me to go and get more exposure. Sometimes my teachers also introduce me to new ideas and projects. I think that’s very nice.
+**A:** Since I was very young, I loved to be outdoors to watch nature and just experience it. I started doing small science projects and liked them very much. I did many many projects with master MINT or any other changes that I had. My parents really support me, they look for places for me to go and arrange for me gain more exposure. My teachers also introduce me to new ideas and projects. I think that’s very nice.
 
 **Q:** *What keeps you motivated every day?*
 
@@ -33,9 +33,9 @@
 
 **A:** Many people say to me that I do many things but I think as long as I know that I can do it, I think it's okay. When I feel that it's too much for me, I try to step back and then organize my time better.
 
-**Q:** *How did you get interested in this project on “Women in Science” by “Friends of EMBL”?*
+**Q:** *How did you get interested in MINT CyberMentor program for girls and this project on “Women in Science” by “Friends of EMBL”?*
 
-**A:** In informatics projects, I often worked with boys. In my first informatics course, I was the only girl. I think it depends on the projects but many informatics projects that I have been a part of, I often meet a class of 90% boys and the rest 10% of girls. I hope that more girls could join because they can do it as well as boys, and maybe they have even better and newer ideas. I am also part of a Cyber-Mentor program which is designed only for girls where we can ask other women in science how they think about their research area and what I can learn from them. I would love to teach younger girls, and I hope I can encourage more girls to do MINT projects. Due to my interests, I think this project at EMBL was also a good fit to get an opportunity to learn about the research work at EMBL and the role of women like you. 
+**A:** In informatics projects, I often worked with boys. In my first informatics course, I was the only girl. I think it depends on the projects but many informatics projects that I have been a part of, I often meet a class of 90% boys and the rest 10% of girls. I wish there were more girls who could join me because they can do it as well as boys, and maybe they have even better and newer ideas. I found CyberMentor program which is designed for girls where we can ask other women in science how they do their research area and what we can learn from them to progress in their areas of research. I would love to teach younger girls, and I hope I can encourage more girls to do MINT projects. Due to my interests, I think this project at EMBL was also a good fit to get an opportunity to learn about the computational research at EMBL and the work of women in Bioinformatics like you. 
 
 **Q:** *What’s your current favorite ‘science thing’?*
 
