@@ -2,14 +2,14 @@
 
 | [PREVIOUS POST](./2019-07-30-community_and_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-08-02-OpenAccess_and_reproducibility.md) |
 
-*I interviewed Maria-Theresa, my mentee in the project ‘Women in Science’ (read about her in this post) to learn about her journey as a young informatician and an EMBL Teen. This interview is part of my Bio-IT community project ‘Digital Storytelling for Shaping Culture’ that I started in May 2019.*
+*I interviewed Maria-Theresa, my mentee in the project ‘Women in Science’ (read about her in [this post](./2019-07-17-introduction.md)) to learn about her journey as a young informatician and an EMBL Teen. This interview is part of my Bio-IT community project ‘Digital Storytelling for Shaping Culture’ that I started in May 2019.*
 
 
 **Q:** *Can you introduce yourself in one sentence?*
 
 **A:** Hi, I am Maria-Theresa and I am 16 years old school student in Heidelberg. 
 
-**Q:** *How did you start learning how to code?*
+**Q:** *How did you start your journey with coding?*
 
 **A:** I took a course in a [volkshochschule](https://en.wikipedia.org/wiki/Folk_high_school) in Heidelberg, where I started with a [Lego Mindstorm](https://www.lego.com/en-us/mindstorms) to program a Robot. I really enjoyed that but I wanted to program more than just robots and that’s when I came across master [MINT](https://www.komm-mach-mint.de/Komm-mach-MINT) (Maths, Informatics, Natural Science, Technology) program. In the MINT [CyberMentor](https://www.cybermentor.de/) platform, I also found myself a mentor who is studying masters in the UK and she is helping me to learn to program in Python. I am also learning about artificial intelligence which I'm really interested in.
 
