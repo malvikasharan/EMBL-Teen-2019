@@ -2,4 +2,38 @@
 
 | [PREVIOUS POST](./2019-07-30-community_and_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-08-02-OpenAccess_and_reproducibility.md) |
 
-## Content
+*I interviewed Maria-Theresa, my mentee in the project ‘Women in Science’ (read about her in this post) to learn about her journey as a young informatician and an EMBL Teen. This interview is part of my Bio-IT community project ‘Digital Storytelling for Shaping Culture’ that I started in May 2019.*
+
+
+**Q:** *Can you introduce yourself in one sentence?*
+**A:** Hi, I am Maria-Theresa and I am 16 years old school student in Heidelberg. 
+
+**Q:** *How did you start learning how to code?*
+**A:** I took a course in a [volkshochschule](https://en.wikipedia.org/wiki/Folk_high_school) in Heidelberg, where I started with a [Lego Mindstorm](https://www.lego.com/en-us/mindstorms) to program a Robot. I really enjoyed that but I wanted to program more than just robots and that’s when I came across master [MINT](https://www.komm-mach-mint.de/Komm-mach-MINT) (Maths, Informatics, Natural Science, Technology) program. In the MINT [CyberMentor](https://www.cybermentor.de/) platform, I also found myself a mentor who is studying masters in the UK and she is helping me to learn to program in Python. I am also learning about artificial intelligence which I'm really interested in.
+
+**Q:** *How does your normal school day look like?*
+**A:** I leave for school at 10:00 AM and finish my classes at 04:00 PM. After school I do a bit of sport like tennis or golf with my friends or my sports team, take piano lessons or work on my programming projects.
+
+**Q:** *When did you realize that you like science?*
+**A:** Since I was very young, I loved to be outdoors to watch nature and just experience it. I started doing small science projects and liked them very much. I did many many projects with master MINT or any other changes that I had. My parents really support me by looking for places for me to go and get more exposure. Sometimes my teachers also introduce me to new ideas and projects. I think that’s very nice.
+
+**Q:** *What keeps you motivated every day?*
+**A:** I'm always trying to progress in whatever I do. I think if you have an aim that you’re trying to reach, you will definitely get there. Once you have reached your aim and if you have enjoyed the process, you will have something next to do. 
+
+**Q:** *Are your friends also doing similar things like you?*
+**A:** I have many friends who I know from school and my master MINT projects. We often talk about our own projects and there is always something different to learn. 
+
+**Q:** *Do you sometimes find it challenging to do many things?*
+**A:** Many people say to me that I do many things but I think as long as I know that I can do it, I think it's okay. When I feel that it's too much for me, I try to step back and then organize my time better.
+
+**Q:** *How did you get interested in this project on “Women in Science” by “Friends of EMBL”?*
+**A:** In informatics projects, I often worked with boys. In my first informatics course, I was the only girl. I think it depends on the projects but many informatics projects that I have been a part of, I often meet a class of 90% boys and the rest 10% of girls. I hope that more girls could join because they can do it as well as boys, and maybe they have even better and newer ideas. I am also part of a Cyber-Mentor program which is designed only for girls where we can ask other women in science how they think about their research area and what I can learn from them. I would love to teach younger girls, and I hope I can encourage more girls to do MINT projects. Due to my interests, I think this project at EMBL was also a good fit to get an opportunity to learn about the research work at EMBL and the role of women like you. 
+
+**Q:** *What’s your current favorite ‘science thing’?*
+**A:** I love to learn about the combination of informatics and medicine.
+
+**Q:** *What are you proud to have done?*
+A: It was a really great chance to go to Silicon Valley and to experience the atmosphere there first hand. I think the next big project is the competition on Artificial Intelligence that I am participating in. We're doing our own project in Python, we have many challenges to solve and together as a team we are communicating with each other to solve them. So, yeah, it’s very cool.
+
+**Q:** *What is the one thing that you wanna brag about?*
+**A:** I'm pretty good at golf, I used to play tennis too. These sports allow me to be in nature and often get to travel to play in different cities.
