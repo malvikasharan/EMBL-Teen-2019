@@ -43,7 +43,7 @@
 
 **Q:** *What are you proud to have done?*
 
-**A:** It was a really great chance to go to Silicon Valley and to experience the atmosphere there first hand. I think the next big project is the competition on Artificial Intelligence that I am participating in. We're doing our own project in Python, we have many challenges to solve and together as a team we are communicating with each other to solve them. So, yeah, it’s very cool.
+**A:** It was a really great chance to go to Silicon Valley and to experience the atmosphere there first hand. I think the next big project is the competition on Artificial Intelligence that I am participating in. We're doing our own project in Python, we have many challenges to solve and together as a team we are communicating with each other to address them. So, yeah, it’s very cool.
 
 **Q:** *What is the one thing that you wanna brag about?*
 
