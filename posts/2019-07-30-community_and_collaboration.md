@@ -15,3 +15,4 @@ Staying on the theme of collaboration, we spent the morning working on GitHub on
 
 We finished our day by recording a small interview with her which I will share in our next post.
 
+| [PREVIOUS POST](./2019-07-17-introduction.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-07-31-matheli-interview.md) |
