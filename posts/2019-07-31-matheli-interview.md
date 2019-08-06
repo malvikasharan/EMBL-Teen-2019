@@ -11,7 +11,7 @@ Post by Malvika Sharan, 2019-07-31
 
 **A:** Hi, I am Maria-Theresa and I am 16 years old school student in Heidelberg. 
 
-![](https://www.golf.de/publish/bilder/detail/11634/6)
+![](https://cdn.golf.de/publish/diashow/GBGO-2019/tag-2-31052019-girls/w800/19-2920-licka-gbgo-byStebl-960.jpg)
 *Maria-Theresa Licka in action, GBGO 2019 - Day 2, 31.05.2019, Girls, (Photo: DGV / stebl)*
 
 **Q:** *How did you get started with coding?*
