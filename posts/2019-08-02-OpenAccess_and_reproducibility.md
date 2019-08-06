@@ -2,7 +2,7 @@
 
 Post by Malvika Sharan, 2019-07-31
 
-| [PREVIOUS POST](./2019-07-31-matheli-interview.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-08-13-Traceability_and_archive.md) |
+| [PREVIOUS POST](./2019-07-31-matheli-interview.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-08-13-Traceability_and_archive.md) |
 
 Maria-Theresa arrived at my office this morning and hesitantly asked if we could do some coding today. I was indecisively planning to show her how to use [`Git`](https://en.wikipedia.org/wiki/Git) from the command-line, but her request was a good opportunity for me to first introduce her to the command-line computing, which will also form a basis for her to learn `Git` in coming days.
 
@@ -32,4 +32,4 @@ In the final hour, we learned about the `for` loops in Unix to automate tasks an
 
 Our day ended with us deciding to visit [EMBL archive](https://www.embl.it/aboutus/archive/index.html) next week (outcome of a random chat I had with Emilia and Anne-Flore) and continue learning Unix and git in the light of openness, reproducibility, inclusiveness, and traceability of the scientific claims.
 
-| [PREVIOUS POST](./2019-07-31-matheli-interview.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-08-13-Traceability_and_archive.md) |
+| [PREVIOUS POST](./2019-07-31-matheli-interview.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-08-13-Traceability_and_archive.md) |
