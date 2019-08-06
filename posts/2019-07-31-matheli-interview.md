@@ -17,11 +17,11 @@ Post by Malvika Sharan, 2019-07-31
 
 **Q:** *How did you get started with coding?*
 
-**A:** I took a course in a [volkshochschule](https://en.wikipedia.org/wiki/Folk_high_school) in Heidelberg, where I started with a [Lego Mindstorm](https://www.lego.com/en-us/mindstorms) to program a Robot. I really enjoyed that but I wanted to program more than just robots and that’s when I came across master [MINT](https://www.komm-mach-mint.de/Komm-mach-MINT) (Maths, Informatics, Natural Science, Technology) program. In the MINT [CyberMentor](https://www.cybermentor.de/) platform, I also found myself a mentor who is studying masters in the UK and she is helping me to learn to program in Python. I am also learning about artificial intelligence which I'm really interested in.
+**A:** I took a course in a [volkshochschule](https://en.wikipedia.org/wiki/Folk_high_school) in Heidelberg, where I started with a [Lego Mindstorm](https://www.lego.com/en-us/mindstorms) to program a Robot. I really enjoyed that but I wanted to program more than just robots and that’s when I came across Master [MINT](https://master-mint.de/) (Maths, Informatics, Natural Science, Technology) program. In the MINT [CyberMentor](https://www.cybermentor.de/) platform, I also found myself a mentor who is studying masters in the UK and she is helping me to learn to program in Python. I am also learning about artificial intelligence which I'm really interested in.
 
 **Q:** *How does your normal school day look like?*
 
-**A:** I leave for school at 10:00 AM and finish my classes at 04:00 PM. After school I do a bit of sport like tennis or golf with my friends or my sports team, take piano lessons or work on my programming projects.
+**A:** I leave for school at 7:00 AM and finish my classes at 03:30 PM. After school I do a bit of sport like tennis or golf with my friends or my sports team, take piano lessons or work on my programming projects.
 
 **Q:** *When did you realize that you like science?*
 
