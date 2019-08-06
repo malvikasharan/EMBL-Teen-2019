@@ -12,7 +12,7 @@ This page will summarise the work of Maria-Theresa - an EMBL teen, who is learni
 - [Community and Collaboration](./posts/2019-07-30-community_and_collaboration.md)
 - [Interview with the EMBL Teen](./posts/2019-07-31-matheli-interview.md)
 - [Open Access and Reproducibility](./posts/2019-08-02-OpenAccess_and_reproducibility.md)
-- [Traceability of scientific claims and EMBl Archive](./posts/2019-08-13-Traceability_and_archive.md)
+- [Traceability of scientific claims and EMBL Archive](./posts/2019-08-13-Traceability_and_archive.md)
 
 ## Learn more about
 
