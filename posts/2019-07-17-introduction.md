@@ -2,7 +2,7 @@
 
 Post by Malvika Sharan, 2019-07-17
 
-| [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-07-30-community_and_collaboration.md) |
+| [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-07-30-community_and_collaboration.md) |
 
 
 ## Meet Maria-Theresa!
@@ -28,4 +28,4 @@ While Maria-Theresa was getting ready to leave for her bus, [Wolfgang Huber](htt
 
 I shared with herthe aspects of my wor that keeps me motivated at EMBL. There are low barriers for collaborating with immensely successful and curious scientists here. One can reach out to others for a chat, and get help in their work relatively easier than other places. In fact, this exact aspect of EMBL makes it a unique place to be working in. On this note, I invited her to spend a few days with me at EMBL, while we could work together on the project ‘Women in Science: Courage to Succeed’. She not only accepted the invitation but added that this could never have happened had she taken a project in wet-lab biology where teenagers need special permission to enter the lab. So, Maria-Theresa will be back next week, and we will learn GitHub, set up a homepage for her and maybe even understand how we can find ‘Courage to Succeed’ in our project.
 
-| [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-07-30-community_and_collaboration.md) |
+| [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-07-30-community_and_collaboration.md) |
