@@ -2,7 +2,7 @@
 
 Post by Malvika Sharan, 2019-07-30
 
-| [PREVIOUS POST](./2019-07-17-introduction.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-07-31-matheli-interview.md) |
+| [PREVIOUS POST](./2019-07-17-introduction.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-07-31-matheli-interview.md) |
 
 Today we discussed my work as a Community Manager at EMBL, while Maria-Theresa got to sit with me during Bio-IT's weekly drop-in sessions. I told her about the roles of community managers in the current collaborative world of science. I also shared with her the challenges I faced in my current job while choosing to dedicate my full-time in community management, which meant I couldn't do research anymore - simply because i didn't have the time to do both properly. 
 
@@ -15,4 +15,4 @@ Staying on the theme of collaboration, we spent the morning working on GitHub on
 
 We finished our day by recording a small interview with her which I will share in our next post.
 
-| [PREVIOUS POST](./2019-07-17-introduction.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-07-31-matheli-interview.md) |
+| [PREVIOUS POST](./2019-07-17-introduction.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-07-31-matheli-interview.md) |
