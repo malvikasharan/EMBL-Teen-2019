@@ -1,5 +1,7 @@
 # Interview with Maria-Theresa
 
+Post by Malvika Sharan, 2019-07-31
+
 | [PREVIOUS POST](./2019-07-30-community_and_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-08-02-OpenAccess_and_reproducibility.md) |
 
 *I interviewed Maria-Theresa, my mentee in the project ‘Women in Science’ (read about her in [this post](./2019-07-17-introduction.md)) to learn about her journey as a young informatician and an EMBL Teen. This interview is part of my Bio-IT community project ‘Digital Storytelling for Shaping Culture’ that I started in May 2019.*
