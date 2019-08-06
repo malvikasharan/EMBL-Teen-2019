@@ -33,6 +33,10 @@
 
 **A:** Many people say to me that I do many things but I think as long as I know that I can do it, I think it's okay. When I feel that it's too much for me, I try to step back and then organize my time better.
 
+![](https://master-mint.de/wp-content/uploads/2019/04/USA_2018_06.jpg)
+
+*Maria-Theresa was one of 2 girls at their Stanford expedition to Silicon Valley, [Image source](https://master-mint.de/usa-2018)*
+
 **Q:** *How did you get interested in MINT CyberMentor program for girls and this project on “Women in Science” by “Friends of EMBL”?*
 
 **A:** In informatics projects, I often worked with boys. In my first informatics course, I was the only girl. I think it depends on the projects but many informatics projects that I have been a part of, I often meet a class of 90% boys and the rest 10% of girls. I wish there were more girls who could join me because they can do it as well as boys, and maybe they have even better and newer ideas. I found CyberMentor program which is designed for girls where we can interact with other women in science, get to know their research work, and get help in learning a new skill that can help us pursue our further studies in a research field of our interest. I would love to teach younger girls, and I hope I can encourage more girls to do MINT projects. Due to my interests, I think this project at EMBL was also a good fit to get an opportunity to learn about the computational research at EMBL and the work of women in Bioinformatics like you. 
@@ -48,3 +52,8 @@
 **Q:** *What is the one non-science thing that you wanna brag about?*
 
 **A:** I'm pretty good at golf. I get to enjoy outdoors, and I often get to travel to different cities with my team and play against other teams.
+
+![](https://github.com/MatheLi/Matheli/blob/master/images/embl_wis.jpg?raw=true)
+*Malvika Sharan (left) and Maria-Theresa (right) at EMBL, 2019*
+
+| [PREVIOUS POST](./2019-07-30-community_and_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Teen-2019/)| [NEXT POST](./2019-08-02-OpenAccess_and_reproducibility.md) |
