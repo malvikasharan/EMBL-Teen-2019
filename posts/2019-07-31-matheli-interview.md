@@ -11,7 +11,7 @@ Post by Malvika Sharan, 2019-07-31
 
 **A:** Hi, I am Maria-Theresa and I am 16 years old school student in Heidelberg. 
 
-**Q:** *How did you start your journey with coding?*
+**Q:** *How did you get started with coding?*
 
 **A:** I took a course in a [volkshochschule](https://en.wikipedia.org/wiki/Folk_high_school) in Heidelberg, where I started with a [Lego Mindstorm](https://www.lego.com/en-us/mindstorms) to program a Robot. I really enjoyed that but I wanted to program more than just robots and that’s when I came across master [MINT](https://www.komm-mach-mint.de/Komm-mach-MINT) (Maths, Informatics, Natural Science, Technology) program. In the MINT [CyberMentor](https://www.cybermentor.de/) platform, I also found myself a mentor who is studying masters in the UK and she is helping me to learn to program in Python. I am also learning about artificial intelligence which I'm really interested in.
 
