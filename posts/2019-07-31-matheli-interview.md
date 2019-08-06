@@ -25,7 +25,7 @@ Post by Malvika Sharan, 2019-07-31
 
 **Q:** *When did you realize that you like science?*
 
-**A:** Since I was very young, I loved to be outdoors to watch nature and just experience it. I started doing small science projects and liked them very much. I did many many projects with master MINT or any other changes that I had. My parents really support me, they look for places for me to go and arrange for me gain more exposure. My teachers also introduce me to new ideas and projects. I think that’s very nice.
+**A:** Since I was very young, I loved to be outdoors to watch nature and just experience it. I started doing small science projects and liked them very much. I did many many projects with master MINT and used any other chances that I had. My parents really support me, they look for programs that can be useful for me, arrange for me to attend them, and help me in every possible way. My teachers also introduce me to new ideas and projects. I think that’s very nice.
 
 **Q:** *What keeps you motivated every day?*
 
