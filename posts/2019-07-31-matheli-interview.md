@@ -2,7 +2,7 @@
 
 Post by Malvika Sharan, 2019-07-31
 
-| [PREVIOUS POST](./2019-07-30-community_and_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-08-02-OpenAccess_and_reproducibility.md) |
+| [PREVIOUS POST](./2019-07-30-community_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-08-02-open_science.md) |
 
 *I interviewed Maria-Theresa, my mentee in the project ‘Women in Science’ (read about her in [this post](./2019-07-17-introduction.md)) to learn about her journey as a young informatician and an EMBL Teen. This interview is part of my Bio-IT community project ‘Digital Storytelling for Shaping Culture’ that I started in May 2019.*
 
@@ -62,4 +62,4 @@ Post by Malvika Sharan, 2019-07-31
 ![](https://github.com/MatheLi/Matheli/blob/master/images/embl_wis.jpg?raw=true)
 *Malvika Sharan (left) and Maria-Theresa (right) at EMBL, 2019*
 
-| [PREVIOUS POST](./2019-07-30-community_and_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-08-02-OpenAccess_and_reproducibility.md) |
+| [PREVIOUS POST](./2019-07-30-community_collaboration.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-08-02-open_science.md) |
