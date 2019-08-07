@@ -1,10 +1,10 @@
-# Open Access, Reproducibility & Unix
+# Open Science & Unix
 
-Post by Malvika Sharan, 2019-07-31
+Post by Malvika Sharan, 2019-08-02
 
 | [PREVIOUS POST](./2019-07-31-matheli-interview.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)| [NEXT POST](./2019-08-13-research_archive.md) |
 
-Maria-Theresa arrived at my office this morning and hesitantly asked if we could do some coding today. I was indecisively planning to show her how to use [`Git`](https://en.wikipedia.org/wiki/Git) from the command-line, but her request was a good opportunity for me to first introduce her to the command-line computing, which will also form a basis for her to learn `Git` in coming days.
+Maria-Theresa arrived at my office this morning (on 30 July 2019) and hesitantly asked if we could do some coding today. I was indecisively planning to show her how to use [`Git`](https://en.wikipedia.org/wiki/Git) from the command-line, but her request was a good opportunity for me to first introduce her to the command-line computing, which will also form a basis for her to learn `Git` in coming days.
 
 We started by downloading [Git bash](https://gitforwindows.org/) (Git for Windows) on her computer. I couldn't resist talking about [Open Science](https://en.wikipedia.org/wiki/Open_science) while we were going to use *Open Source* products such as `Git` and `Git bash` for the rest of the day.
 
