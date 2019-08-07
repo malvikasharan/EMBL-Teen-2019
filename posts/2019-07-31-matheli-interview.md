@@ -13,7 +13,7 @@ Post by Malvika Sharan, 2019-07-31
 
 ![](https://cdn.golf.de/publish/diashow/GBGO-2019/tag-2-31052019-girls/w800/19-2920-licka-gbgo-byStebl-960.jpg)
 
-*Maria-Theresa Licka in action, GBGO 2019 - Day 2, 31.05.2019, Girls, (Photo: DGV / stebl)*
+*Maria-Theresa in action, GBGO 2019 - Day 2, 31.05.2019, Girls, (Photo: DGV / stebl)*
 
 **Q:** *How did you get started with coding?*
 
