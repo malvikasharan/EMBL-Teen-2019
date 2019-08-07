@@ -8,11 +8,18 @@ This page will summarise the work of Maria-Theresa - an EMBL teen, who is learni
 
 ## Check out their stories
 
-- [Introduction](./posts/2019-07-17-introduction.md)
-- [Community and Collaboration](./posts/2019-07-30-community_and_collaboration.md)
+- [Introduction to the project](./posts/2019-07-17-introduction.md)
+- [Community & Collaboration](./posts/2019-07-30-community_collaboration.md)
 - [Interview with the EMBL Teen](./posts/2019-07-31-matheli-interview.md)
-- [Open Access, Reproducibility, and Unix](./posts/2019-08-02-OpenAccess_and_reproducibility.md)
-- [Research History and EMBL Archive](./posts/2019-08-13-Traceability_and_archive.md)
+- [Open Science & Unix](./posts/2019-08-02-open_science.md)
+
+## Will be posted soon...
+
+- [EMBL Archive & Git](./posts/2019-08-13-research_archive.md)
+- [Best Practices & Python - I](./posts/2019-08-30-python-1.md)
+- [Best Practices & Python - II](./posts/2019-08-20-research_archive.md)
+- [Researcher's Night & Our Exhibition](./posts/2019-09-27-researcher_night.md)
+- [Project Summary & Going Forward](./posts/2019-09-30-going-forward.md)
 
 ## Learn more about
 
