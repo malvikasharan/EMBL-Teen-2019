@@ -1,4 +1,4 @@
-# Community Managers and Collaboration 
+# Community and Collaboration 
 
 Post by Malvika Sharan, 2019-07-30
 
