@@ -15,11 +15,11 @@ This page will summarise the work of Maria-Theresa - an EMBL teen, who is learni
 
 ## Will be posted soon...
 
-- [EMBL Archive & Git](./posts/2019-08-13-research_archive.md)
-- [Best Practices & Python - I](./posts/2019-08-30-python-1.md)
-- [Best Practices & Python - II](./posts/2019-08-20-research_archive.md)
-- [Researcher's Night & Our Exhibition](./posts/2019-09-27-researcher_night.md)
-- [Project Summary & Going Forward](./posts/2019-09-30-going-forward.md)
+- [EMBL Archive & Git](./posts/2019-08-13-research_archive.md) - 14 August 2019
+- [Best Practices & Python - I](./posts/2019-08-30-python-1.md) - 30 August 2019
+- [Best Practices & Python - II](./posts/2019-08-20-research_archive.md) - 20 September 2019
+- [Researcher's Night & Our Exhibition](./posts/2019-09-27-researcher_night.md) - 30 September 2019
+- [Project Summary & Going Forward](./posts/2019-09-30-going-forward.md) - 1 October 2019
 
 ## Learn more about
 
