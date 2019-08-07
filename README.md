@@ -4,9 +4,9 @@
 
 *From July to September 2019, the 'Friends of EMBL' department is running a small project - 'Women in Science', with EMBL Teens, an EMBL club for high school students interested in life sciences. Each girl has been paired with a women researcher at EMBL where they will take mentorship roles as a mentee and mentor. The EMBL researcher will introduce their mentees to their research work, their life as a scientist and a few important skills that have been useful for them. At the European Researchers’ Night on 27 September 2019, an exhibition on this project will be organised to show the work carried out by different mentor-mentee pairs in the form of visual display, video or presentation.*
 
-This page will summarise the work of Maria-Theresa - an EMBL teen, who is learning about computational biology, data analysis, and artificial intelligence in her spare time, and Malvika Sharan - a computational biologist and community outreach coordinator at EMBL.
+This page will be collaboratively developed by Maria-Theresa - an EMBL teen, who is learning about computational biology, data analysis, and artificial intelligence in her spare time, and Malvika Sharan - a computational biologist and community outreach coordinator at EMBL.
 
-## Check out their stories
+## Track Our Journey
 
 - [Introduction to the project](./posts/2019-07-17-introduction.md)
 - [Community & Collaboration](./posts/2019-07-30-community_collaboration.md)
