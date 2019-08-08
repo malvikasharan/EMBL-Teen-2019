@@ -13,7 +13,7 @@ This page will be collaboratively developed by Maria-Theresa - an EMBL teen, who
 - [Interview with the EMBL Teen](./posts/2019-07-31-matheli-interview.md)
 - [Open Science & Unix](./posts/2019-08-02-open_science.md)
 
-## Will be posted soon...
+## Upcoming posts
 
 - [EMBL Archive & Git](./posts/2019-08-13-research_archive.md) - 14 August 2019
 - [Best Practices & Python - I](./posts/2019-08-30-python-1.md) - 30 August 2019
