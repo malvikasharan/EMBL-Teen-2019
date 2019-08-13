@@ -15,7 +15,7 @@ This page will be collaboratively developed by Maria-Theresa - an EMBL teen, who
 
 ## Upcoming posts
 
-- [EMBL Archive & Git](./posts/2019-08-13-research_archive.md) - 14 August 2019
+- [Hostory: EMBL Archive Vs. Git](./posts/2019-08-13-research_archive.md) - 14 August 2019
 - [Best Practices & Python - I](./posts/2019-08-30-python-1.md) - 30 August 2019
 - [Best Practices & Python - II](./posts/2019-08-20-research_archive.md) - 20 September 2019
 - [Researcher's Night & Our Exhibition](./posts/2019-09-27-researcher_night.md) - 30 September 2019
