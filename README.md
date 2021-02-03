@@ -9,7 +9,7 @@ This page will be collaboratively developed by Maria-Theresa - an EMBL teen, who
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">This summer I am mentoring a teenager from <a href="https://twitter.com/embl?ref_src=twsrc%5Etfw">@embl</a> teens as a part of a project called &quot;Women in Science&quot;.<br><br>She is learning some computation skills with me, while we also discuss various career paths in Science. We have started to record our journey here: <a href="https://t.co/XvcFLrN1ro">https://t.co/XvcFLrN1ro</a></p>&mdash; Malvika Sharan (@MalvikaSharan) <a href="https://twitter.com/MalvikaSharan/status/1157256118432927746?ref_src=twsrc%5Etfw">2 August 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![](images/video-shot.png)
+![a screen shot of Malvika and Maria-Theresa from their online video](images/video-shot.png)
 
 ## Track Our Journey
 
