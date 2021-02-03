@@ -14,6 +14,8 @@ You can see our ultra happy faces in these pictures!
 On our way back, we dived into `git` lesson.
 Git is a powerful version control system that allows you to work on your projects (or repository as called in git) locally in your computer and when you are ready, you can push the changes (publish them) on GitHub  or similar online version control repository hosting system.
 We used this [`git` material](https://github.com/malvikasharan/2017-09-04-Software_Carpentry_Wuerzburg_Teaching_Material/blob/master/Git/Git.md) that was developed by Konrad Förstner, my PhD supervisor for one of the first training events we ran in Würzburg.
+
+Explaining version control after visiting archive was way more enjoyable as we could connect many concepts back to different things we had just seen.
 Ah! What a joy!
 
 This morning, Maria Thersa and I were invited to record a video interviewing each other sharing our personal experiences as scientists.
