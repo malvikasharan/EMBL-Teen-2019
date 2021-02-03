@@ -21,6 +21,6 @@ You can see our ultra happy faces in these pictures!
 Discussing version control after visiting archive was way more enjoyable as we could connect many concepts back to different things we had just seen.
 Ah! What a joy!
 
-I am so glad that I got to share some these wonderful experiences with Maria-Theresa.
+I am so glad that I got to share these past weeks with Maria-Theresa.
 I can't wait to see her realise her dreams of becoming an AI expert in medical-informatics (she is more inspiring to me for knowing what she wants to do). 
-She is a rockstar! I look forward to wonderful things she will do as a scientist.
+She is a rockstar! I look forward to seeing her succeed as a scientist.
