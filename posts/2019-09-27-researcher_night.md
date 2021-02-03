@@ -1,4 +1,6 @@
-# Researcher's Night & Our Exhibition
+# Researcher's Night & The Exhibition
+
+| [PREVIOUS POST](./2019-08-13-research_archive.md) | [RETURN HOME](https://malvikasharan.github.io/EMBL-Women-2019/)|
 
 Maria-Theresa and I interviewed each other and a 16 minutes video was added to the Women in Science exhibition at the Researcher's night.
 
