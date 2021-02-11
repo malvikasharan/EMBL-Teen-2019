@@ -29,4 +29,4 @@ This page will be collaboratively developed by Maria-Theresa - an EMBL teen, who
 
 ## Learn more about
 
-| [EMBL Teens](https://www.embl.de/leben/friends/en#embl-teens) | [Project from EMBL Teen's Perspective](https://matheli.github.io/Matheli/) |
+- [EMBL Teens](https://www.embl.de/leben/friends/en#embl-teens)
