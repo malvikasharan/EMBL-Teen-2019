@@ -10,6 +10,7 @@ This page will be collaboratively developed by Maria-Theresa - an EMBL teen, who
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![a screen shot of Malvika and Maria-Theresa from their online video](images/video-shot.png)
+*We got to interview each other (Maria-Theresa on the right and I am on the left).*
 
 ## Track Our Journey
 
@@ -23,7 +24,8 @@ This page will be collaboratively developed by Maria-Theresa - an EMBL teen, who
 
 - [Researcher's Night & Our Exhibition](./posts/2019-09-27-researcher_night.md) - 30 September 2019
 
-![](images/researcher-night.JPG)
+![4 people in picture from Researcher's Night at EMBL.](images/researcher-night.JPG)
+*We attended the European Researchers’ Night 2020 with wonderful [Mariana Alves](https://twitter.com/Mariana_RPAlves) and her mentee Patricia.*
 
 ## Learn more about
 
